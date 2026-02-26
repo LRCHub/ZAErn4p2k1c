@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "マーメイド",
+  "base_artist": "WEDNESDAY CAMPANELLA",
+  "createdAt": "2026-02-26T16:06:42.941284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パート・オブ・ユア・ワールド (リトル・マーメイド)",
+      "artist": "Q;indivi",
+      "has_synced": true,
+      "path": "select/01_パート・オブ・ユア・ワールド_(リトル・マーメイド)_Q;indivi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マーメイド feat.GUMI",
+      "artist": "monaca:factory(10日P) feat. GUMI",
+      "has_synced": false,
+      "path": "select/02_マーメイド_feat.GUMI_monaca_factory(10日P)_feat._GUMI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マーメイド",
+      "artist": "GUMI",
+      "has_synced": false,
+      "path": "select/03_マーメイド_GUMI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マーメイド",
+      "artist": "GIRLFRIEND",
+      "has_synced": false,
+      "path": "select/04_マーメイド_GIRLFRIEND.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マーメイド",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/05_マーメイド_スピッツ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マーメイド",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/06_マーメイド_WEAVER.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "インソムニア・マーメイド",
+      "artist": "富田美憂",
+      "has_synced": false,
+      "path": "select/07_インソムニア・マーメイド_富田美憂.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mermaid [マーメイド]",
+      "artist": "Wednesday Campanella",
+      "has_synced": true,
+      "path": "select/08_Mermaid_[マーメイド]_Wednesday_Campanella.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マーメイド",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/09_マーメイド_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "マーメイド ラブストーリー",
+      "artist": "誘宵美九(CV.茅原実里)",
+      "has_synced": false,
+      "path": "select/10_マーメイド_ラブストーリー_誘宵美九(CV.茅原実里).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "マーメイド ラブストーリー - Full Size",
+      "artist": "誘宵美九 (CV: 茅原実里)",
+      "has_synced": false,
+      "path": "select/11_マーメイド_ラブストーリー_-_Full_Size_誘宵美九_(CV__茅原実里).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ロンリー、メリー、マーメイド",
+      "artist": "ヲタみん",
+      "has_synced": false,
+      "path": "select/12_ロンリー、メリー、マーメイド_ヲタみん.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "マーメイド",
+      "artist": "MINMI",
+      "has_synced": false,
+      "path": "select/13_マーメイド_MINMI.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "マーメイド",
+      "artist": "ささ。",
+      "has_synced": true,
+      "path": "select/14_マーメイド_ささ。.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "マーメイド ラブストーリー(Instrumental)",
+      "artist": "誘宵美九(CV:茅原実里)",
+      "has_synced": false,
+      "path": "select/15_マーメイド_ラブストーリー(Instrumental)_誘宵美九(CV_茅原実里).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "マーメイド ラブストーリー",
+      "artist": "誘宵美九(CV:茅原実里)",
+      "has_synced": false,
+      "path": "select/16_マーメイド_ラブストーリー_誘宵美九(CV_茅原実里).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "00_人魚のくちづけ[粘卵人魚の種奴隷 ～ マーメイド・ビューティー フローラ&ミア ～_CV.伊東もえ.柚木桃香]",
+      "artist": "BLACKSEED",
+      "has_synced": true,
+      "path": "select/17_00_人魚のくちづけ[粘卵人魚の種奴隷_~_マーメイド・ビューティー_フローラ&ミア_~_CV.伊東もえ.柚木桃香]_BLACKSEED.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "01_フローラと水中交尾[粘卵人魚の種奴隷 ～ マーメイド・ビューティー フローラ&ミア ～_CV.伊東もえ.柚木桃香]",
+      "artist": "BLACKSEED",
+      "has_synced": true,
+      "path": "select/18_01_フローラと水中交尾[粘卵人魚の種奴隷_~_マーメイド・ビューティー_フローラ&ミア_~_CV.伊東もえ.柚木桃香]_BLACKSEED.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "02_卵子風呂～手淫・ウロコ擦りつけ[粘卵人魚の種奴隷 ～ マーメイド・ビューティー フローラ&ミア ～_CV.伊東もえ.柚木桃香]",
+      "artist": "BLACKSEED",
+      "has_synced": true,
+      "path": "select/19_02_卵子風呂~手淫・ウロコ擦りつけ[粘卵人魚の種奴隷_~_マーメイド・ビューティー_フローラ&ミア_~_CV.伊東もえ.柚木桃香]_BLACKSEED.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マーメイド",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_01_マーメイド_水曜日のカンパネラ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "マーメイド",
+      "artist": "水曜日のカンパネラ",
+      "has_synced": false,
+      "path": "select/pl_02_マーメイド_水曜日のカンパネラ.txt"
+    }
+  ]
+}
